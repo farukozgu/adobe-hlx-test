@@ -277,3 +277,24 @@ header nav .nav-sections ul > li > ul > li {
 header nav .nav-tools {
   grid-area: tools;
 }
+
+header nav .nav-tools a {
+  font-family: var(--body-font-family);
+  display: inline-block;
+  box-sizing: border-box;
+  text-decoration: none;
+  border: 2px solid transparent;
+  padding: 5px 30px;
+  text-align: center;
+  font-style: normal;
+  font-weight: 400;
+  cursor: pointer;
+  color: #fff;
+  background-color: #000;
+  margin: 16px 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  border-radius: 10px;
+}
+
