@@ -61,7 +61,7 @@ header nav a:any-link {
 }
 
 
-header nav a:any-link .cool-link::after {
+header nav a:any-link::after {
   content: '';
   display: block;
   width: 0;
