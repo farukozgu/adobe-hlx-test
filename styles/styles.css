@@ -282,3 +282,14 @@ main .section.highlight {
 background: linear-gradient(90deg, rgba(29,29,29,1) 0%, rgba(64,64,86,1) 36%, rgba(29,29,29,1) 100%);
 }
 
+#example-heading-1 {
+  text-align: center;
+  color: #fff;
+  font-size: 36px;
+}
+
+.subscribe > p {
+  color: #fff;
+  text-align: center;
+  max-width: 550px;
+}
