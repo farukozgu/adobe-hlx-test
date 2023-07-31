@@ -257,3 +257,8 @@ main .section.highlight {
   color: #000;
   font-weight: 400;
 }
+
+.section p {
+  max-width: 600px;
+  color: #1d1d1d;
+}
