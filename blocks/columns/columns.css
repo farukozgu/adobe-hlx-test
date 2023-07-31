@@ -33,6 +33,10 @@
     order: unset;
   }
 
+  
+}
+
+@media screen and (max-width: 900px) {
   #access-a-library-of-free-design-resources,
   .section p {
     max-width: unset;
