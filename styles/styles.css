@@ -230,6 +230,7 @@ main img {
 
 main .section {
   padding: 64px 16px;
+  background-color: #F5F0F1;
 }
 
 @media (min-width: 600px) {
