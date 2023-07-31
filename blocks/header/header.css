@@ -54,10 +54,10 @@ header nav p {
 }
 
 header nav a:any-link {
-  color: #050505;
+  color: #626A9F;
   font-family: roboto;
-  font-weight: bold;
-  font-size: 18px;
+  font-weight: 400;
+  font-size: 17px;
 }
 
 /* hamburger */
@@ -284,7 +284,7 @@ header nav .nav-tools a {
   box-sizing: border-box;
   text-decoration: none;
   border: 2px solid transparent;
-  padding: 10px 30px;
+  padding: 8px 30px;
   text-align: center;
   font-style: normal;
   font-weight: 400;
