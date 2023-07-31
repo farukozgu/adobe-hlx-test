@@ -54,7 +54,7 @@ header nav p {
 }
 
 header nav a:any-link {
-  color: var(--heading-font-size-s);
+  color: #035FE6;
   font-family: roboto;
   font-weight: bold;
 }
