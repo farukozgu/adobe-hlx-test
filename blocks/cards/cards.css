@@ -31,6 +31,10 @@
 }
 
 
+.cards-card-body  {
+  line-height: 1 !important;
+}
+
 .cards-card-body code, strong {
   font-size: 14px;
   opacity: 0.75;
