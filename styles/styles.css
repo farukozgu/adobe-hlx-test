@@ -277,3 +277,8 @@ main .section.highlight {
     font-size: 26px;
 }
 
+.section:has(.subscribe) {
+  background: rgb(2,0,36);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(46,46,65,1) 40%, rgba(2,0,36,1) 100%);
+}
+
