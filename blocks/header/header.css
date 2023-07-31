@@ -303,3 +303,15 @@ header nav .nav-tools a:hover {
   cursor: pointer;
 }
 
+@media screen and (max-width: 500px) {
+  header nav .nav-tools a {
+    font-size: 12px;
+  }
+  header nav .nav-brand img {
+    width: 100px;
+  }
+  header nav {
+    gap: 0 10px;
+    padding: 0 2rem;
+  }
+}
