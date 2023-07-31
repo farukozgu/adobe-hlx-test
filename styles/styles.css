@@ -266,3 +266,12 @@ main .section.highlight {
   max-width: 600px;
   color: #1d1d1d;
 }
+
+#grids--alignment,
+#remote-work-for-design-teams,
+#design-systems-in-product-teams,
+#all-in-one-color-handbook,
+#digital-wellbeing-and-support {
+    margin-bottom: 12px;
+    font-size: 26px;
+}
