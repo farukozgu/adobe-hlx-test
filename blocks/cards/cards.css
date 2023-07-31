@@ -31,7 +31,7 @@
 }
 
 
-.cards-card-body code {
+.cards-card-body code, strong {
   font-size: 14px;
   opacity: 0.75;
   line-height: 1.4em;
