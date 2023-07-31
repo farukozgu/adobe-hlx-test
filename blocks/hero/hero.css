@@ -19,6 +19,7 @@ main .hero h1 {
   margin-left: auto;
   margin-right: auto;
   color: #F4D160;
+  font-weight: bold;
 }
 
 main .hero picture {
