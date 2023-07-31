@@ -146,7 +146,7 @@ a.button:any-link, button {
   box-sizing: border-box;
   text-decoration: none;
   border: 2px solid transparent;
-  padding: 5px 30px;
+  padding: 8px 30px;
   text-align: center;
   font-style: normal;
   font-weight: 400;
@@ -158,6 +158,7 @@ a.button:any-link, button {
   overflow: hidden;
   text-overflow: ellipsis;
   border-radius: 10px;
+  opacity: 100%;
 }
 
 a.button:hover, a.button:focus, button:hover, button:focus  {
@@ -256,7 +257,7 @@ main .section.highlight {
 
 
 #access-a-library-of-free-design-resources{
-  font-size: 46px;
+  font-size: 46px !important;
   max-width: 600px;
   color: #000;
   font-weight: 400;
