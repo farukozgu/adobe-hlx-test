@@ -54,8 +54,8 @@ header nav p {
 }
 
 header nav a:any-link {
-  color: currentcolor;
-  font-family: poppins;
+  color: var(--heading-font-size-s);
+  font-family: roboto;
   font-weight: bold;
 }
 
