@@ -54,9 +54,10 @@ header nav p {
 }
 
 header nav a:any-link {
-  color: #035FE6;
+  color: #050505;
   font-family: roboto;
   font-weight: bold;
+  font-size: 18px;
 }
 
 /* hamburger */
