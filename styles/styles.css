@@ -297,6 +297,7 @@ background: linear-gradient(90deg, rgba(29,29,29,1) 0%, rgba(64,64,86,1) 36%, rg
   font-weight: 400;
 }
 
-.subscribe > div > div > .button .primary {
-    background-color: #495158;
+.subscribe > .button-container {
+    margin: auto;
+    text-align: center;
 }
