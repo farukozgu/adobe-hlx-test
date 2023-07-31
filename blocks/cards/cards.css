@@ -35,4 +35,5 @@
   font-size: 14px;
   opacity: 0.75;
   color: #1d1d1d;
+  line-height: none !important;
 }
