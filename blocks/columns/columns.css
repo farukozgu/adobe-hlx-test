@@ -13,6 +13,7 @@
 
 .columns > div > .columns-img-col {
   order: 0;
+  margin: auto;
 }
 
 .columns > div > .columns-img-col img {
@@ -30,10 +31,6 @@
   .columns > div > div {
     flex: 1;
     order: unset;
-  }
-
-  .columns > div > .columns-img-col {
-    margin: auto;
   }
 }
 
