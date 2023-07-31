@@ -60,6 +60,20 @@ header nav a:any-link {
   font-size: 17px;
 }
 
+
+header nav a:any-link .cool-link::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 2px;
+  background: #000;
+  transition: width .3s;
+}
+
+header nav a:any-link:hover::after {
+  width: 100%;
+}
+
 /* hamburger */
 header nav .nav-hamburger {
   grid-area: hamburger;
