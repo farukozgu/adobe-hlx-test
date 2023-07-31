@@ -29,3 +29,11 @@
   /* aspect-ratio: 4 / 3; */
   object-fit: cover;
 }
+
+
+.cards-card-body code {
+  font-size: 14px;
+  opacity: 0.75;
+  line-height: 1.4em;
+  color: #1d1d1d;
+}
