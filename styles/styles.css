@@ -282,14 +282,15 @@ main .section.highlight {
 background: linear-gradient(90deg, rgba(29,29,29,1) 0%, rgba(64,64,86,1) 36%, rgba(29,29,29,1) 100%);
 }
 
-#example-heading-1 {
+#get-more-great-resources{
   text-align: center;
   color: #fff;
   font-size: 36px;
 }
 
-.subscribe > p {
+#get-the-latest-design-resources-from-across-the-web-straight-to-your-inbox {
   color: #fff;
   text-align: center;
   max-width: 550px;
+  font-size: 20px;
 }
