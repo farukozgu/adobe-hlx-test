@@ -149,7 +149,7 @@ a.button:any-link, button {
   padding: 5px 30px;
   text-align: center;
   font-style: normal;
-  font-weight: 600;
+  font-weight: 400;
   cursor: pointer;
   color: #fff;
   background-color: #000;
@@ -157,7 +157,7 @@ a.button:any-link, button {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  border-radius: 15px;
+  border-radius: 10px;
 }
 
 a.button:hover, a.button:focus, button:hover, button:focus  {
