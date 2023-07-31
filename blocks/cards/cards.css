@@ -20,6 +20,7 @@
 
 .cards .cards-card-body {
   margin-top: 10px;
+  font-family: var(--body-font-family) !important;
 }
 
 .cards .cards-card-image {
