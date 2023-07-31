@@ -293,4 +293,6 @@ background: linear-gradient(90deg, rgba(29,29,29,1) 0%, rgba(64,64,86,1) 36%, rg
   text-align: center;
   max-width: 550px;
   font-size: 20px;
+  margin: auto;
+  font-weight: 400;
 }
