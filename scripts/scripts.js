@@ -133,3 +133,8 @@ async function loadPage() {
 }
 
 loadPage();
+
+
+// Scroll Reveal 
+
+ScrollReveal().reveal('.banner');
