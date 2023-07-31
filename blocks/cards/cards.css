@@ -42,10 +42,16 @@
   line-height: 1 !important;
 }
 
-.cards-card-body > code {
-  word-spacing: 0px;
-  letter-spacing: 0px;
+.cards .cards-card-body > *:first-child {
+  color: #1d1d1d;
+  font-size: 14px;
 }
+
+.cards .cards-card-body > *:last-child {
+  color: #1d1d1d;
+  font-size: 14px;
+}
+
 
 
 
