@@ -16,7 +16,3 @@ export default function decorate(block) {
     });
   });
 }
-
-// Scroll Reveal 
-
-ScrollReveal().reveal('.banner');
