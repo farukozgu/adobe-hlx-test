@@ -291,8 +291,12 @@ background: linear-gradient(90deg, rgba(29,29,29,1) 0%, rgba(64,64,86,1) 36%, rg
 #get-the-latest-design-resources-from-across-the-web-straight-to-your-inbox {
   color: #fff;
   text-align: center;
-  max-width: 550px;
+  max-width: 525px;
   font-size: 20px;
   margin: auto;
   font-weight: 400;
+}
+
+.subscribe > .button .primary {
+    background-color: #495158;
 }
