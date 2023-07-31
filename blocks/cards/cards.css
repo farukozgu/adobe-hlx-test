@@ -10,6 +10,11 @@
 .cards > ul > li {
   border: none;
   background-color: #fff;
+  transition: .3s;
+}
+
+.cards > ul > li:hover {
+  transform: translate(0, -10px);
 }
 
 .cards .cards-card-body {
@@ -41,3 +46,5 @@
   color: #1d1d1d;
   line-height: none !important;
 }
+
+
