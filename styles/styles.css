@@ -161,9 +161,7 @@ a.button:any-link, button {
 }
 
 a.button:hover, a.button:focus, button:hover, button:focus  {
-  background-color: #fff;
-  border: 1px solid #000;
-  color: #000;
+  opacity: 85%;
   cursor: pointer;
 }
 
