@@ -55,6 +55,8 @@ header nav p {
 
 header nav a:any-link {
   color: currentcolor;
+  font-family: poppins;
+  font-weight: bold;
 }
 
 /* hamburger */
