@@ -31,4 +31,10 @@
     flex: 1;
     order: unset;
   }
+
+  .columns > div > .columns-img-col {
+    margin: auto;
+  }
 }
+
+
