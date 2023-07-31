@@ -249,3 +249,11 @@ main .section {
 main .section.highlight {
   background-color: #fff;
 }
+
+
+#access-a-library-of-free-design-resources{
+  font-size: 46px;
+  max-width: 600px;
+  color: #000;
+  font-weight: 400;
+}
