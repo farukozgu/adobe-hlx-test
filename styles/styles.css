@@ -296,8 +296,3 @@ background: linear-gradient(90deg, rgba(29,29,29,1) 0%, rgba(64,64,86,1) 36%, rg
   margin: auto;
   font-weight: 400;
 }
-
-.subscribe > .button-container {
-    margin: auto;
-    text-align: center;
-}
